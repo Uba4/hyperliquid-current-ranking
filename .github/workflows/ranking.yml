@@ -35,6 +35,9 @@ jobs:
         pip install requests pandas numpy
     
     - name: Run analysis
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: |
         python hyperliquid_ranking.py
     
