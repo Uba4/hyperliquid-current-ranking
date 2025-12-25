@@ -17,6 +17,12 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # Fetch all history to ensure we get latest files
+    
+    - name: Pull latest changes
+      run: |
+        git config pull.rebase false
+        git pull origin main || git pull origin master || true
     
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -36,5 +42,5 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add top6_history.json
+        git add top6_history.json last_top6.json
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update top 6 rankings - $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
