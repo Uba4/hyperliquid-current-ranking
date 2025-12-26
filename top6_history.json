@@ -68,22 +68,22 @@
         "score": 202
       },
       {
-        "token": "SKY",
-        "score": 201
-      },
-      {
         "token": "CC",
-        "score": 201
+        "score": 202
       },
       {
         "token": "MERL",
-        "score": 200
+        "score": 201
+      },
+      {
+        "token": "SKY",
+        "score": 199
       },
       {
         "token": "SYRUP",
         "score": 196
       }
     ],
-    "timestamp": "2025-12-26T17:31:43.014828"
+    "timestamp": "2025-12-26T17:48:25.718308"
   }
 }
