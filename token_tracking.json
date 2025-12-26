@@ -10,7 +10,7 @@
   "CC": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.097479,
-    "current_price": 0.09817,
+    "current_price": 0.09776,
     "max_price": 0.09817,
     "min_price": 0.097479,
     "in_top6": true
@@ -18,15 +18,15 @@
   "MERL": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.42879,
-    "current_price": 0.42775,
+    "current_price": 0.42738,
     "max_price": 0.42879,
-    "min_price": 0.42775,
+    "min_price": 0.42738,
     "in_top6": true
   },
   "VVV": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 1.3832,
-    "current_price": 1.3863,
+    "current_price": 1.3861,
     "max_price": 1.3863,
     "min_price": 1.3832,
     "in_top6": true
@@ -34,16 +34,16 @@
   "SKY": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.064356,
-    "current_price": 0.064324,
+    "current_price": 0.064289,
     "max_price": 0.064356,
-    "min_price": 0.064324,
+    "min_price": 0.064289,
     "in_top6": true
   },
   "SYRUP": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.33717,
-    "current_price": 0.33788,
-    "max_price": 0.33788,
+    "current_price": 0.33938,
+    "max_price": 0.33938,
     "min_price": 0.33717,
     "in_top6": true
   }
