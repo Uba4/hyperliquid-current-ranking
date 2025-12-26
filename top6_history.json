@@ -68,12 +68,12 @@
         "score": 198
       },
       {
-        "token": "MERL",
+        "token": "VVV",
         "score": 195
       },
       {
-        "token": "VVV",
-        "score": 195
+        "token": "MERL",
+        "score": 194
       },
       {
         "token": "SKY",
@@ -81,9 +81,9 @@
       },
       {
         "token": "SYRUP",
-        "score": 190
+        "score": 191
       }
     ],
-    "timestamp": "2025-12-26T20:50:35.383884"
+    "timestamp": "2025-12-26T21:11:15.416799"
   }
 }
