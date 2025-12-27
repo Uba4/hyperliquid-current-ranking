@@ -2,7 +2,7 @@
   "DOOD": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.006071,
-    "current_price": 0.006086,
+    "current_price": 0.006096,
     "max_price": 0.006136,
     "min_price": 0.006028,
     "in_top6": true
@@ -10,7 +10,7 @@
   "CC": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.097479,
-    "current_price": 0.099714,
+    "current_price": 0.09909,
     "max_price": 0.10171,
     "min_price": 0.097479,
     "in_top6": true
@@ -18,7 +18,7 @@
   "MERL": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.42879,
-    "current_price": 0.42641,
+    "current_price": 0.42616,
     "max_price": 0.43226,
     "min_price": 0.42198,
     "in_top6": true
@@ -26,15 +26,15 @@
   "VVV": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 1.3832,
-    "current_price": 1.4228,
-    "max_price": 1.4228,
+    "current_price": 1.4232,
+    "max_price": 1.4232,
     "min_price": 1.3832,
     "in_top6": true
   },
   "SKY": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.064356,
-    "current_price": 0.062586,
+    "current_price": 0.062447,
     "max_price": 0.064457,
     "min_price": 0.061137,
     "in_top6": true
@@ -42,7 +42,7 @@
   "ZEC": {
     "entry_time": "2025-12-27T03:51:31.521703",
     "entry_price": 469.39,
-    "current_price": 467.02,
+    "current_price": 469.41,
     "max_price": 469.81,
     "min_price": 466.88,
     "in_top6": true
