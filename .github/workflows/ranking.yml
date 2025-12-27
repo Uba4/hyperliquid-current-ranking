@@ -3,7 +3,7 @@ name: Hyperliquid Token Ranking
 on:
   schedule:
     # Run every 15 minutes for real-time momentum tracking
-    - cron: '*/15 * * * *'
+    - cron: '0 * * * *'
   
   # Allow manual triggering
   workflow_dispatch:
