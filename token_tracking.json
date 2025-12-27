@@ -2,15 +2,15 @@
   "CC": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.097479,
-    "current_price": 0.10405,
-    "max_price": 0.10405,
+    "current_price": 0.10579,
+    "max_price": 0.10579,
     "min_price": 0.097479,
     "in_top6": true
   },
   "MERL": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.42879,
-    "current_price": 0.40792,
+    "current_price": 0.41402,
     "max_price": 0.43226,
     "min_price": 0.40616,
     "in_top6": true
@@ -18,7 +18,7 @@
   "VVV": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 1.3832,
-    "current_price": 1.3932,
+    "current_price": 1.3918,
     "max_price": 1.4533,
     "min_price": 1.3832,
     "in_top6": true
@@ -26,7 +26,7 @@
   "SKY": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.064356,
-    "current_price": 0.061952,
+    "current_price": 0.06208,
     "max_price": 0.064457,
     "min_price": 0.061137,
     "in_top6": true
@@ -34,7 +34,7 @@
   "ZEC": {
     "entry_time": "2025-12-27T03:51:31.521703",
     "entry_price": 469.39,
-    "current_price": 513.43,
+    "current_price": 510.67,
     "max_price": 513.43,
     "min_price": 466.88,
     "in_top6": true
@@ -42,8 +42,8 @@
   "ACE": {
     "entry_time": "2025-12-27T12:22:05.415500",
     "entry_price": 0.2777,
-    "current_price": 0.2777,
-    "max_price": 0.2777,
+    "current_price": 0.2785,
+    "max_price": 0.2785,
     "min_price": 0.2777,
     "in_top6": true
   }
