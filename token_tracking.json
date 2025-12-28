@@ -10,15 +10,15 @@
   "MERL": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.42879,
-    "current_price": 0.36973,
+    "current_price": 0.36061,
     "max_price": 0.43226,
-    "min_price": 0.36973,
+    "min_price": 0.36061,
     "in_top6": true
   },
   "SKY": {
     "entry_time": "2025-12-26T20:13:46.270636",
     "entry_price": 0.064356,
-    "current_price": 0.062689,
+    "current_price": 0.062513,
     "max_price": 0.064457,
     "min_price": 0.061137,
     "in_top6": true
@@ -26,25 +26,25 @@
   "ZEC": {
     "entry_time": "2025-12-27T03:51:31.521703",
     "entry_price": 469.39,
-    "current_price": 516.54,
-    "max_price": 517.08,
+    "current_price": 517.16,
+    "max_price": 517.16,
     "min_price": 466.88,
     "in_top6": true
   },
   "ACE": {
     "entry_time": "2025-12-27T12:22:05.415500",
     "entry_price": 0.2777,
-    "current_price": 0.2768,
+    "current_price": 0.2785,
     "max_price": 0.2785,
     "min_price": 0.2752,
     "in_top6": true
   },
-  "PAXG": {
-    "entry_time": "2025-12-27T16:21:11.013477",
-    "entry_price": 4565.2,
-    "current_price": 4570.4,
-    "max_price": 4570.4,
-    "min_price": 4565.2,
+  "TST": {
+    "entry_time": "2025-12-28T01:25:28.475453",
+    "entry_price": 0.018719,
+    "current_price": 0.018719,
+    "max_price": 0.018719,
+    "min_price": 0.018719,
     "in_top6": true
   }
 }
